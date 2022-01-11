@@ -1,1 +1,1 @@
-Mach das wieder gut.
+Der erste Test war erfolgreich!
